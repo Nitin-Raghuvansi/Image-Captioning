@@ -20,3 +20,12 @@ In this project work we will develop and train model which takes any fashion ima
 Can simply run this model using the notebook 
 
 # Result
+![Screenshot](Capture2.PNG)
+# Accuracy Plot
+![Screenshot](Capture.PNG)
+
+# Conclusion
+Model is underfit because dataset taken is very less 
+
+# Scope of Improvement
+Train on large dataset 
